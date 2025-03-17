@@ -9,9 +9,9 @@ smartypants
 
 smartypants_ is a Python fork of SmartyPants__.
 
-.. _smartypants: https://github.com/leohemsted/smartypants.py
+.. _smartypants: https://github.com/justinmayer/smartypants.py
 __ SmartyPantsPerl_
-.. _SmartyPantsPerl: http://daringfireball.net/projects/smartypants/
+.. _SmartyPantsPerl: https://daringfireball.net/projects/smartypants/
 
 
 
@@ -57,4 +57,4 @@ More information
 
 .. _documentation: http://pythonhosted.org/smartypants/
 .. _Source code: smartypants_
-.. _PyPI: https://pypi.python.org/pypi/smartypants/
+.. _PyPI: https://pypi.org/project/smartypants/
