@@ -1,11 +1,5 @@
-.. image:: https://badge.fury.io/py/smartypants.svg
-    :target: PyPI_
-
-.. image:: https://secure.travis-ci.org/leohemsted/smartypants.py.png
-    :target: https://travis-ci.org/leohemsted/smartypants.py
-
-smartypants
-===========
+smartypants |build-status| |pypi-version| |downloads| |repology|
+================================================================
 
 smartypants_ is a Python fork of SmartyPants__.
 
@@ -58,3 +52,16 @@ More information
 .. _documentation: http://pythonhosted.org/smartypants/
 .. _Source code: smartypants_
 .. _PyPI: https://pypi.org/project/smartypants/
+
+.. |build-status| image:: https://img.shields.io/github/actions/workflow/status/justinmayer/smartypants.py/ci.yml?branch=main
+   :target: https://github.com/justinmayer/smartypants.py/actions/workflows/ci.yml?query=branch%3Amain
+   :alt: GitHub Actions CI: continuous integration status
+.. |pypi-version| image:: https://img.shields.io/pypi/v/smartypants.svg
+   :target: https://pypi.org/project/smartypants/
+   :alt: PyPI: the Python Package Index
+.. |downloads| image:: https://img.shields.io/pypi/dm/smartypants.svg
+   :target: https://pypi.org/project/smartypants/
+   :alt: Monthly Downloads from PyPI
+.. |repology| image:: https://repology.org/badge/tiny-repos/python%3Asmartypants.svg
+   :target: https://repology.org/project/python%3Asmartypants/versions
+   :alt: Repology: the packaging hub
