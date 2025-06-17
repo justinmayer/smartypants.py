@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 # Copyright (c) 2025–present Justin Mayer
 # Licensed under the BSD License, for detailed license information, see COPYING
 

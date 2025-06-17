@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
 # Copyright (c) 2025–present Justin Mayer
 # Copyright (c) 2017 Leo Hemsted
 # Copyright (c) 2013, 2014, 2016 Yu-Jie Lin

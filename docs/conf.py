@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-#
 # smartypants documentation build configuration file, created by
 # sphinx-quickstart on Fri Aug 23 12:43:22 2013.
 #
