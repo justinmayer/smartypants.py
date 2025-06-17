@@ -2,10 +2,10 @@
 Development
 ===========
 
-smartypants_ is hosted on Bitbucket, you can clone the repository or file an
+smartypants_ is hosted on GitHub. You can clone the repository or file an
 issue report from there.
 
-.. _smartypants: https://bitbucket.org/livibetter/smartypants.py
+.. _smartypants: https://github.com/justinmayer/smartypants.py
 
 
 Contributing
@@ -45,7 +45,7 @@ If ``make`` isn't available, ``setup.py`` can be used::
 
 For manual package installation test::
 
-  python setup.py sdist
+  python -m pip install -e .
   pip install --user --upgrade dist/smartypants-<x.y.z>.tar.gz
 
 
@@ -84,4 +84,4 @@ Reporting
 Please head over to Issues_ and create an issue for a bug report or feature
 request.
 
-.. _Issues: https://bitbucket.org/livibetter/smartypants.py/issues
+.. _Issues: https://github.com/justinmayer/smartypants.py/issues

@@ -4,7 +4,7 @@ Introduction
 
 smartypants_ is a Python fork of SmartyPants__.
 
-.. _smartypants: https://bitbucket.org/livibetter/smartypants.py
+.. _smartypants: https://github.com/justinmayer/smartypants.py
 __ SmartyPantsPerl_
 .. _SmartyPantsPerl: http://daringfireball.net/projects/smartypants/
 
@@ -54,14 +54,10 @@ Installation
 
 smartypants package on PyPI_ can be installed via ``pip``::
 
-  pip install smartypants
+  python -m pip install smartypants
 
 .. _PyPI: https://pypi.python.org/pypi/smartypants/
 
 If you want to install latest development code, you can run::
 
-  pip install hg+https://bitbucket.org/livibetter/smartypants.py
-
-or::
-
-  pip install hg+ssh://hg@bitbucket.org/livibetter/smartypants.py
+  python -m pip install git+https://github.com/justinmayer/smartypants.py
