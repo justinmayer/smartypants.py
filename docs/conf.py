@@ -43,7 +43,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'smartypants'
-copyright = u'2013, Yu-Jie Lin'
+copyright = '2025–present, Justin Mayer; 2013–2016, Yu-Jie Lin; 2004–2013, Chad Miller'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
