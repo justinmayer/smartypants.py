@@ -27,7 +27,7 @@ import smartypants
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.viewcode']
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.viewcode', 'sphinxext.opengraph']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -42,7 +42,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'smartypants'
+project = 'smartypants'
 copyright = '2025–present, Justin Mayer; 2013–2016, Yu-Jie Lin; 2004–2013, Chad Miller'
 author = 'Justin Mayer'
 
@@ -67,7 +67,7 @@ release = smartypants.__version__
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -106,7 +106,7 @@ html_theme = 'furo'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = f'<strong>{project}</strong> <i>{release}</i>'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
