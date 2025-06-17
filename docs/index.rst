@@ -13,7 +13,6 @@ Contents:
 
    introduction
    usage
-   command-line
    development
    reference
    history
