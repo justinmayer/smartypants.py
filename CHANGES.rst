@@ -43,6 +43,13 @@ Changes
 Releases 2.0 and greater
 ========================
 
+Release 2.0.2 (2025-06-17)
+--------------------------
+
+- Fix double closing quotes after an HTML block
+- Fix regular expressions and tests for Python 3.12+
+- Move documentation to ReadTheDocs
+
 Release 2.0.1 (2017-12-20)
 --------------------------
 

@@ -15,7 +15,7 @@ smartypants module
 
 __author__ = 'Justin Mayer'
 __author_email__ = 'entrop@gmail.com'
-__version__ = '2.0.1'
+__version__ = '2.0.2'
 __license__ = 'BSD License'
 __url__ = 'https://github.com/justinmayer/smartypants.py'
 __description__ = 'Python with the SmartyPants'
