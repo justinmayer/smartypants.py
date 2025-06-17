@@ -16,7 +16,7 @@ To install it:
 
 .. code:: sh
 
-  pip install smartypants
+  python -m pip install smartypants
 
 
 Quick usage
@@ -49,7 +49,7 @@ More information
 * `Source code`_
 * PyPI_
 
-.. _documentation: http://pythonhosted.org/smartypants/
+.. _documentation: https://smartypants.readthedocs.io
 .. _Source code: smartypants_
 .. _PyPI: https://pypi.org/project/smartypants/
 
