@@ -44,6 +44,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'smartypants'
 copyright = '2025–present, Justin Mayer; 2013–2016, Yu-Jie Lin; 2004–2013, Chad Miller'
+author = 'Justin Mayer'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -185,8 +186,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'smartypants.tex', u'smartypants Documentation',
-   u'Yu-Jie Lin', 'manual'),
+  ('index', 'smartypants.tex', 'smartypants Documentation',
+   'Justin Mayer', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -215,8 +216,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'smartypants', u'smartypants Documentation',
-     [u'Yu-Jie Lin'], 1)
+    ('index', 'smartypants', 'smartypants Documentation',
+     ['Justin Mayer'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -229,8 +230,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'smartypants', u'smartypants Documentation',
-   u'Yu-Jie Lin', 'smartypants', 'One line description of project.',
+  ('index', 'smartypants', 'smartypants Documentation',
+   'Justin Mayer', 'smartypants', 'One line description of project.',
    'Miscellaneous'),
 ]
 
